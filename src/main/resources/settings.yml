@@ -1,0 +1,5 @@
+url: "http://store.demoqa.com/"
+browser: "chrome"
+implicitTimeouts: 40
+clickWait: 40
+
